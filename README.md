@@ -12,3 +12,4 @@
 - [site to understand GAN](https://jleinonen.github.io/2019/09/05/gan-elements-1.html)
 - [tensorflow tutorial on deep convoutional GAN](https://www.tensorflow.org/tutorials/generative/dcgan)
 - [Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with a Generative Adversarial Network](https://arxiv.org/abs/2005.10374)
+- 
