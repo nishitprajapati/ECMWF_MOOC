@@ -6,9 +6,9 @@
 - [Machine Learning for Model Error Inference and Correction](https://arxiv.org/pdf/2210.13817.pdf)
 - Tier - 2
 - [Distill](https://distill.pub/) : site to understand CNN
--[explorable transformers](https://huggingface.co/exbert/?model=bert-base-cased&modelKind=bidirectional&sentence=The%20girl%20ran%20to%20a%20local%20pub%20to%20escape%20the%20din%20of%20her%20city.&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..&hideClsSep=true)
+- [explorable transformers](https://huggingface.co/exbert/?model=bert-base-cased&modelKind=bidirectional&sentence=The%20girl%20ran%20to%20a%20local%20pub%20to%20escape%20the%20din%20of%20her%20city.&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..&hideClsSep=true)
 - [site to understand GNN](https://distill.pub/2021/gnn-intro/)
--[site ti understand GAN](https://jalammar.github.io/)
--[site to understand GAN](https://jleinonen.github.io/2019/09/05/gan-elements-1.html)
--[tensorflow tutorial on deep convoutional GAN](https://www.tensorflow.org/tutorials/generative/dcgan)
--[Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with a Generative Adversarial Network](https://arxiv.org/abs/2005.10374)
+- [site ti understand GAN](https://jalammar.github.io/)
+- [site to understand GAN](https://jleinonen.github.io/2019/09/05/gan-elements-1.html)
+- [tensorflow tutorial on deep convoutional GAN](https://www.tensorflow.org/tutorials/generative/dcgan)
+- [Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields with a Generative Adversarial Network](https://arxiv.org/abs/2005.10374)
