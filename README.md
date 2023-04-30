@@ -18,4 +18,4 @@
 - [Deep Learning Based Cloud Cover Parameterization for ICON](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002959)
 - [Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study](https://gmd.copernicus.org/articles/13/2185/2020/)
 - [Stable climate simulations using a realistic general circulation model with neural network parameterizations for atmospheric moist physics and radiation processes](https://gmd.copernicus.org/articles/15/3923/2022/)
-- 
+- [site to learn ML for earth systems](https://wp.unil.ch/dawn/getting-started-with-machine-learning/)
