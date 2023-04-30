@@ -19,3 +19,4 @@
 - [Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study](https://gmd.copernicus.org/articles/13/2185/2020/)
 - [Stable climate simulations using a realistic general circulation model with neural network parameterizations for atmospheric moist physics and radiation processes](https://gmd.copernicus.org/articles/15/3923/2022/)
 - [site to learn ML for earth systems](https://wp.unil.ch/dawn/getting-started-with-machine-learning/)
+- [NEMI - method to determine regions of interest in large or highly complex and nonlinear data](https://github.com/maikejulie/NEMI)
